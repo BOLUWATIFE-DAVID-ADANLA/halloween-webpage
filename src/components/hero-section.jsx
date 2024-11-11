@@ -1,5 +1,4 @@
 import Pumpkin from "../assets/Pumpkin-1.png";
-import Pumpkin2 from "../assets/Pumpkin-2.png";
 import Atropos from "atropos/react";
 export const HeroSection = () => (
   <div className=" flex flex-col lg:flex-row lg:justify-center lg:items-center lg:px-40 lg: overflow-hidden ">
